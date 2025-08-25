@@ -1,1 +1,6 @@
-# atividades_semana2
+Nome: Heloísa Melo de Moura 
+Matrícula: 905887
+
+Print da página HTML:
+
+![Print do CV](images/print.png)
