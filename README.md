@@ -3,4 +3,4 @@ Matrícula: 905887
 
 Print da página HTML:
 
-![Print do CV](images/print.jpeg)
+![Print do CV](print.jpeg)
